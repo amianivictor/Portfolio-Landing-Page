@@ -3,6 +3,7 @@
     padding: 0;
     font-family: Oxygen, sans-serif;
 }
+/* header section  */
 
 .header {
     background-image: url("portfolio-bg.jpg");
@@ -23,6 +24,8 @@
     color: #fff;
   }
 
+  /* button section  */
+
   .btn {
     border: 2px solid #389b65;
     width: 10em;
@@ -38,3 +41,33 @@
     transition-timing-function: ease-in-out;
     cursor: pointer;
   }
+
+  /* about me section  */
+
+  .section {
+    width: 100%;
+    display: flex;
+    margin-top: 3em;
+  }
+  
+  .experience-sec {
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+  }
+
+  .section-header {
+    margin: auto;
+    font-size: 26px;
+    padding: 10px 5px;
+    border-bottom: 3px solid #2ecc71;
+  }
+
+  .experience-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 6em;
+  }
+
+  
