@@ -5,7 +5,8 @@
 - A website that hosts an idealized view of what a PORTFOLIO LANDING PAGE would look like, including an installed version of Git.
 ## Setup/Installation Requirements
 To run the application in your terminal:
-- Clone Repository on Local Machine  xxxxxxxxxx
+- Clone Repository on Local Machine  https://amianivictor.github.io/Portfolio-Landing-Page/
+
 - cd into Directory  cd portfolio
 - Open the index.html on the browser
 
